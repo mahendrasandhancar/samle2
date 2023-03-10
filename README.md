@@ -1,1 +1,1 @@
-# samle2
+# sample2
